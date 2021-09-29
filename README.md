@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Renata!
 - 🙆 I'm 27 years old. I love reading books, trying new cooking recipies and one curious thing about me is that I have never had a dog in my entire life.
+- 📚 I'm finishing my master's degree on Transportation Engineering at Universidade de São Paulo.
 - 👀 I’m interested in data science, data analytics, machine learning algorithms and optimization models!
 - 🌱 I’m currently learning Python and improving my abilities with some libraries, such as Pandas, Numpy, Seaborn, Matplotlib, Scikit Learn and Gurobi.
 - 💞️ I’m looking to collaborate on data science projects on which I can learn a lot!
