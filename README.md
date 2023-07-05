@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Renata!
-- 🙆 I'm 28 years old. I love reading books, trying new cooking recipies and one curious thing about me is that I have never had a dog in my entire life.
+- 🙆 I'm 29 years old. I love reading books, trying new cooking recipies and one curious thing about me is that I have never had a dog in my entire life.
 - 📚 I have a master degree in Transportation Engineering.
-- 📚 I'm currently reading *Blood of Elves*, written by Andrzej Sapkowski.
+- 📚 I'm currently reading *The power of geography: ten maps that reveal the future of our world*, written by Tim Marshall.
 - 👀 I’m interested in data science, data analytics, machine learning algorithms, and optimization models!
 - 🌱 I’m currently learning Python and improving my abilities with some libraries, such as Pandas, Numpy, Seaborn, Matplotlib, Scikit Learn, and Gurobi.
 - 💞️ I’m looking to collaborate on data science projects in which I can learn a lot!
